@@ -1,0 +1,2 @@
+# InvestigacionConceptosParadigmas
+Conceptos de programación
