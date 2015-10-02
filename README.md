@@ -1,5 +1,3 @@
-# InvestigacionConceptosParadigmas
-
 Ciclos de vida de las variables
 	Se definen estos ciclos por las siguientes variables: variables de instancia, estáticas o locales. Dependiendo del tipo de variable, se determina el ciclo de vida que tendrán que comúnmente corresponde de forma máxima al tiempo de ejecución del programa El primer tipo se crea al instanciar el objeto (caracterizan al objeto como atributos), el segundo tipo se crea cuando la clase se usa por primera vez y el tercer tipo es creado al ser llamada una sentencia.
 
